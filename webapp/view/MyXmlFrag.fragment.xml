@@ -1,0 +1,7 @@
+<HorizontalLayout xmlns="sap.ui.layout">
+	<content>
+		<Input id="idInput" xmlns="sap.m"/>
+		<Button text="Sag Hallo (XML Fragment)" press="onXmlButtonPress" xmlns="sap.m"/>
+		<Text id="idText" xmlns="sap.m"/>
+	</content>
+</HorizontalLayout>
